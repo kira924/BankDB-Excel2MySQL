@@ -69,11 +69,13 @@ A complete bank database solution featuring:
 ## 📂 Project Structure  
 ```plaintext
 Bank-Management-Database/
-├── TablesCreation&InsertionQueries.sql      # Database schema script
-├── excel_to_mysql.py      # Excel-to-MySQL importer
-├── Schema.png                # Entity Relationship Diagram
-├── ERD.png                # Entity Relationship Diagram
-└── README.md              # You are here
+├── TablesCreation&InsertionQueries.sql       # Database schema script
+├── excel_to_mysql.py                         # Excel-to-MySQL importer
+├── BankDataBase_DEPI_Project-V2.0.ipynb      # Excel-to-MySQL importer in a notebook 
+├── Business_Analysis_Queries.sql             # For Business_Analysing
+├── Schema.png                                # Entity Relationship Diagram
+├── ERD.png                                   # Entity Relationship Diagram
+└── README.md                                 # You are here
 ```
 
 ---
