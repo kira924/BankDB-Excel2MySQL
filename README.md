@@ -28,8 +28,8 @@ A complete bank database solution featuring:
 - Supports bulk inserts and data validation.  
 
 ### 📐 ERD Diagram  
+![Schema Diagram](Schema.jpg) 
 ![ERD Diagram](ERD.png) 
-![Schema Diagram](Schema.pdf) 
 
 ---
 
