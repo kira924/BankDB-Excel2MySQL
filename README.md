@@ -27,8 +27,9 @@ A complete bank database solution featuring:
 - Import `.xlsx` files into MySQL with **2 lines of Python**.  
 - Supports bulk inserts and data validation.  
 
-### 📐 ERD Diagram  
+### 📐 Schema Diagram 
 ![Schema Diagram](Schema.jpg) 
+### 📐 ERD Diagram  
 ![ERD Diagram](ERD.png) 
 
 ---
