@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🏦 Bank Management Database with Excel Import Tool  
 
 **A robust MySQL-based bank management system with seamless Excel data import functionality.**  
