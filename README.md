@@ -29,7 +29,7 @@ A complete bank database solution featuring:
 
 ### 📐 ERD Diagram  
 ![ERD Diagram](ERD.png) 
-![Schema Diagram](Schema.png) 
+![Schema Diagram](Schema.pdf) 
 
 ---
 
